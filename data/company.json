@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Thorin Oakenshield",
+        "description": "Thorin II was born in TA 2746 to Dwarf prince Thráin II in the city of the Lonely Mountain. Early in his youth, he and the other Dwarves of the Lonely Mountain were forced to flee by the dragon Smaug in TA 2770. While in exile, he quickly grew to become a capable warrior. This was demonstrated when he participated in the Battle of Azanulbizar in TA 2799. He fought with one of the Dwarven armies beneath the East-gate of Moria. At some point in the fighting, his shield broke, and using an oaken tree branch found on the ground as a shield, he gained the epithet 'Oakenshield', which would remain with him even in death.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/3/3f/ThorinBIG.jpg"
+    },
+    {
+        "name": "Fili and Kili",
+        "description": "Fíli and Kíli were nephews of Thorin, who was the elder brother of their mother Dís. They were also nephews of Frerin, grandsons of Thráin II, and great-grandsons of Thrór. Fíli's most distinguishing feature was his long nose, the longest of any of the Dwarves in Thorin's company.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/b/b4/The-Hobbit-Fili-and-Kili.jpg"
+    },
+    {
+        "name": "Oin",
+        "description": "Óin was the older brother of Glóin, cousin of Dwalin and Balin, and uncle of Gimli. Óin's uncle was Fundin, the father of Balin and Dwalin. He usually wore a brown-hooded cloak when travelling. Óin fought in the Battle of Azanulbizar along with Thorin Oakenshield, and in TA 2941 joined with Thorin and Company on the quest to reclaim the Lonely Mountain wearing a brown hood.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/4/4b/Oinstaff.jpg"
+    }
+]

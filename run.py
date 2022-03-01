@@ -15,19 +15,19 @@ def index():
 @app.route("/about")
 def about():
     '''this func renders the about.html file from the templates'''
-    return render_template("about.html")
+    return render_template("about.html", page_title="About")
 
 
 @app.route("/contact")
 def contact():
     '''this func renders the contact.html file from the templates'''
-    return render_template("contact.html")
+    return render_template("contact.html", page_title="Contact")
 
 
 @app.route("/careers")
 def careers():
     '''this func renders the contact.html file from the templates'''
-    return render_template("careers.html")
+    return render_template("careers.html", page_title="Careers")
 
 
 if __name__ == "__main__":
